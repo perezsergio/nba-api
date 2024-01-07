@@ -1,6 +1,8 @@
 # Parsing private NBA API with request lib
 
-This repo is a solution to the problem statement `docs/problems_statement.pdf`.
+This repo provides a useful collection of scripts that can be used to 
+parse player data from the private NBA API.
+
 The docstring of the `main.py` script contains an informative summary of how this application
 works:
 
